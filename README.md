@@ -50,4 +50,4 @@
 `Harsh Gurnani - HarshGurnani` /
 `Hrithik Pai - hpai1` /
 `Anish Kasam - anishkasam` /
-`Rushil Chandraputla - rushilcs`
+`Rushil Chandrupatla - rushilcs`
