@@ -12,8 +12,7 @@
 
 #### A visual
 
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true">
+<img height="10%" width="100%" alt="HDMA" src='ProposalImage.png'>
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
@@ -41,7 +40,7 @@
   > How can we leverage technology to improve healthcare access for rural and remote communities, ensuring timely and specialized care for those in underserved areas? (Focus on SDSU Imperial Valley Connection - Rural/Remote)
 - [ ] Enhancing disease prevention (For Geocomputational Thinker Awards)
   > How can big (geospatial) data analytics and AI be used to improve access to information about the influence of human behavior, cultural practices, and social interactions on the spread of diseases?
-- [ ] Addressing environmental health disparities (For Geocomputational Thinker Awards)
+- [x] Addressing environmental health disparities (For Geocomputational Thinker Awards)
   > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
 #### Team Coordinator GitHub Username: `HarshGurnani`
